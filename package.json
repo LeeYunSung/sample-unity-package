@@ -1,0 +1,12 @@
+{
+	"name": "com.Kyowon.kyowonCommonModule",
+	"version": "1.0.0",
+	"desplayName": "Sample Unity Package,
+	"unity": "2022.3.7",
+	"author": {
+		"name": "Yoonsung Lee",
+		"email": "yoonsung@kyowon.co.kr",
+		"url": ""
+	}
+	
+}
